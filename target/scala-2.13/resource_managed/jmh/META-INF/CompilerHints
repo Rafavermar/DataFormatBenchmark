@@ -1,0 +1,15 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,benchmark/DataFormatBenchmark.readAvro
+inline,benchmark/DataFormatBenchmark.readDelta
+inline,benchmark/DataFormatBenchmark.readORC
+inline,benchmark/DataFormatBenchmark.readParquet
+inline,benchmark/DataFormatBenchmark.setup
+inline,benchmark/DataFormatBenchmark.tearDown
+inline,benchmark/DataFormatBenchmark.writeAvro
+inline,benchmark/DataFormatBenchmark.writeDelta
+inline,benchmark/DataFormatBenchmark.writeORC
+inline,benchmark/DataFormatBenchmark.writeParquet
